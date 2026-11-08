@@ -1,0 +1,86 @@
+{
+  "id": "/unbelievable-8-/",
+  "name": "IELTS Boost — Advanced IELTS Learning App",
+  "short_name": "IELTS Boost",
+  "description": "84-day IELTS Academic learning app with Speaking transcript studio, advanced games and vocabulary mastery.",
+  "lang": "uz",
+  "start_url": "/unbelievable-8-/",
+  "scope": "/unbelievable-8-/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#06133a",
+  "theme_color": "#06133a",
+  "prefer_related_applications": false,
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/unbelievable-8-/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/unbelievable-8-/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/unbelievable-8-/app-icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/unbelievable-8-/app-icon-96-maskable.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Speaking Studio",
+      "short_name": "Speaking",
+      "url": "/unbelievable-8-/?open=speaking",
+      "icons": [
+        {
+          "src": "/unbelievable-8-/app-icon-96-maskable.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Games",
+      "short_name": "Games",
+      "url": "/unbelievable-8-/?open=games",
+      "icons": [
+        {
+          "src": "/unbelievable-8-/app-icon-96-maskable.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary Lab",
+      "short_name": "Vocabulary",
+      "url": "/unbelievable-8-/?open=vocabulary",
+      "icons": [
+        {
+          "src": "/unbelievable-8-/app-icon-96-maskable.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

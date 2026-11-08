@@ -1,0 +1,27 @@
+IELTS BOOST STAGE 40 — GITHUB PAGES / SAMSUNG TELEFON
+Repository: unbelievable-8- (to‘liq kichik harf; oxirgi tire ham nomning bir qismi)
+Sayt manzili: https://davronegamberdiyev42-svg.github.io/unbelievable-8-/
+
+PAKETLAR
+01_ROOT_FILES.zip        — index.html, manifest, service worker, ikonka va yo‘riqnomalar
+02_AUDIO_PART_1_OF_3.zip — listening-day-01.mp3 ... listening-day-28.mp3
+03_AUDIO_PART_2_OF_3.zip — listening-day-29.mp3 ... listening-day-56.mp3
+04_AUDIO_PART_3_OF_3.zip — listening-day-57.mp3 ... listening-day-84.mp3
+
+1) Samsung My Files → Downloads ichida 01_ROOT_FILES.zip ni top → Extract.
+2) GitHub’da aynan unbelievable-8- repository bosh sahifasini och → Add file → Upload files.
+3) Extract qilingan root ichidagi HAMMA fayl va papkalarni tanla. ZIP faylni o‘zini yuklama.
+   index.html, manifest.webmanifest, sw.js, app-icon fayllari va .nojekyll root’da turishi kerak.
+4) GitHub repository ichidagi audio/ papkasini och. 02_AUDIO_PART_1_OF_3.zip ni telefonda Extract qil;
+   ichidagi 28 MP3 faylni audio/ ichiga yukla. Keyin 03 va 04 qismlarni ham xuddi shunday joyla.
+5) Repository → Settings → Pages → Deploy from a branch → main → /(root) → Save.
+6) Ochiladigan manzil: https://davronegamberdiyev42-svg.github.io/unbelievable-8-/
+7) Sahifa yuklangach bir marta refresh qil. Settings → PWA readiness check’da manifest, icons,
+   GitHub project scope va Service Worker qatorlarini tekshir.
+8) Chrome ⋮ → Install app ko‘rinsa tanla. Oddiy Create shortcut tanlansa bu faqat browser shortcut bo‘lishi mumkin.
+
+MUHIM
+- Eski progressni almashtirishdan oldin platformadan JSON backup ol. Browser site data’ni tozalama.
+- 84 ta audio fayl 3 ta ZIPga bo‘lingan; audio papkasiga ZIP emas, ZIP ichidagi MP3’larni yukla.
+
+- Repository nomi aynan unbelievable-8- bo‘lishi kerak: hammasi kichik harf, 8 raqamidan keyin oxirgi tire ham bor.
